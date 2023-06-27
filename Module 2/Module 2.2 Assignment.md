@@ -1,5 +1,5 @@
-Juan nicolas
-# Módulo 2.2 Asignación Jose Alfredo Roman
+
+# Módulo 2.2 Asignación Juan Nicolas Jimenez
 
 En esta lección, aprendió cómo confirmar cambios en archivos, crear ramas y obtener y extraer actualizaciones de GitHub. Para completar esta tarea, cambiará este archivo en una nueva rama en GitHub y luego extraerá los cambios a su repositorio local siguiendo las instrucciones a continuación:
 
