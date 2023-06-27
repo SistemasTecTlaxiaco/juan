@@ -1,3 +1,4 @@
+Juan Nicolas Jimenez
 # Bienvenido al Módulo 2: Conceptos básicos de GitHub
 
 En este módulo, se le presentará GitHub. Este módulo cubrirá:
